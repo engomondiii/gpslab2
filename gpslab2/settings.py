@@ -45,7 +45,6 @@ INSTALLED_APPS = [
 
     # Your apps
     'Auths',
-    'sslserver',
     
 ]
 
