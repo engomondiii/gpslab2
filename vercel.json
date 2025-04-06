@@ -4,7 +4,7 @@
     {
       "src": "manage.py",
       "use": "@vercel/python",
-      "config": { 
+      "config": {
         "maxLambdaSize": "100mb",  
         "runtime": "python3.9" 
       }
@@ -24,7 +24,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "gpslab2/wsgi.py"
+      "dest": "gpslab2/wsgi.py"  
     }
   ]
 }
