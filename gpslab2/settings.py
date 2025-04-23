@@ -62,6 +62,7 @@ MIDDLEWARE = [
 # Allow CORS for the frontend (React app on Vercel)
 CORS_ALLOWED_ORIGINS = [
     "https://gpslab.vercel.app",  # Replace with your actual React frontend URL
+    "http://localhost:3000/",
 ]
 
 # Static files handling (Whitenoise)
