@@ -20,3 +20,4 @@ python-dotenv==1.1.0
 rsa==4.9.1
 sqlparse==0.5.2
 whitenoise==6.8.2
+requests==2.32.3
